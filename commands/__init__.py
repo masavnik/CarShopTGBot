@@ -1,0 +1,5 @@
+from .commands_custom import response_to_commands_custom
+from .commands_help import response_to_commands_help
+from .commands_high import response_to_commands_high
+from .commands_history import com_his
+from .commands_low import response_to_commands_low
